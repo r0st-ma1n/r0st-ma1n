@@ -47,9 +47,13 @@ while True:
 
 ## GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=r0st-ma1n&show_icons=true&theme=github_dark_dimmed&hide_border=true)
+<p align="center">
+  <img height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=r0st-ma1n&show_icons=true&theme=github_dark_dimmed&hide_border=true"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r0st-ma1n&layout=compact&theme=github_dark_dimmed&hide_border=true)
+  <img height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0st-ma1n&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
+</p>
 
 ---
 
