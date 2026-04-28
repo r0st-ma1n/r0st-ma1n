@@ -1,8 +1,6 @@
 # r0st
 
-Backend Engineer.
-
-Building APIs, automation and useful software.
+Backend Engineer focused on APIs, automation and reliable systems.
 
 ---
 
@@ -15,26 +13,26 @@ Building APIs, automation and useful software.
 ## Current Focus
 
 - Backend architecture  
-- Automation tools  
+- Automation tooling  
 - AI integrations  
 - System design
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### PyExpenseTrackerAPI
+### PyExpenseTrackerAPI  
 REST API for expense tracking.
 
-### PyWebAddressShortener
+### PyWebAddressShortener  
 URL shortener built with FastAPI.
 
-### YOLOPersonAndFaceDetector
+### YOLOPersonAndFaceDetector  
 Computer vision experiments.
 
 ---
 
-## Principles
+## Engineering Principles
 
 ```python
 while True:
@@ -42,6 +40,20 @@ while True:
     build()
     improve()
 ```
+
+---
+
+## GitHub Metrics
+
+| | |
+|---|---|
+| ![](https://github-readme-stats.vercel.app/api?username=r0st-ma1n&show_icons=true&theme=github_dark_dimmed&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0st-ma1n&layout=compact&hide=html,css,javascript&theme=github_dark_dimmed&hide_border=true) |
+
+---
+
+## Activity
+
+![](https://streak-stats.demolab.com?user=r0st-ma1n&theme=github-dark-blue&hide_border=true)
 
 ---
 
