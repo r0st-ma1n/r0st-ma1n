@@ -45,11 +45,4 @@ while True:
 
 ---
 
-## GitHub
-
-| | |
-|---|---|
-| ![](https://github-readme-stats.vercel.app/api?username=r0st-ma1n&show_icons=true&theme=github_dark_dimmed&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0st-ma1n&layout=compact&theme=github_dark_dimmed&hide_border=true) |
----
-
 > Build useful things. Ship often.
