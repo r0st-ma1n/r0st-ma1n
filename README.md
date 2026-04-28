@@ -47,13 +47,9 @@ while True:
 
 ## GitHub
 
-<p align="center">
-  <img width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=r0st-ma1n&show_icons=true&theme=github_dark_dimmed&hide_border=true"/>
-
-  <img width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0st-ma1n&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
-</p>
+| | |
+|---|---|
+| ![](https://github-readme-stats.vercel.app/api?username=r0st-ma1n&show_icons=true&theme=github_dark_dimmed&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0st-ma1n&layout=compact&theme=github_dark_dimmed&hide_border=true) |
 ---
 
 > Build useful things. Ship often.
