@@ -1,38 +1,30 @@
 # r0st
 
-Backend Engineer focused on APIs, automation and reliable systems.
+Backend engineer building APIs, automation tools and practical software.
 
----
-
-## Stack
-
-`Python` `FastAPI` `PostgreSQL` `Docker` `Git` `Linux`
-
----
-
-## Current Focus
+## Working On
 
 - Backend architecture  
+- API development  
 - Automation tooling  
-- AI integrations  
-- System design
+- AI integrations
 
----
+## Selected Projects
 
-## Featured Work
+### PyExpenseTrackerAPI
+REST API for expense tracking built with FastAPI and PostgreSQL.
 
-### PyExpenseTrackerAPI  
-REST API for expense tracking.
+### PyWebAddressShortener
+URL shortener service focused on clean API design.
 
-### PyWebAddressShortener  
-URL shortener built with FastAPI.
+### YOLOPersonAndFaceDetector
+Computer vision experiments with real-time detection.
 
-### YOLOPersonAndFaceDetector  
-Computer vision experiments.
+## Technologies
 
----
+Python · FastAPI · PostgreSQL · Docker · Linux
 
-## Engineering Principles
+## Principles
 
 ```python
 while True:
@@ -41,20 +33,6 @@ while True:
     improve()
 ```
 
----
+## Notes
 
-## GitHub Metrics
-
-| | |
-|---|---|
-| ![](https://github-readme-stats.vercel.app/api?username=r0st-ma1n&show_icons=true&theme=github_dark_dimmed&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0st-ma1n&layout=compact&hide=html,css,javascript&theme=github_dark_dimmed&hide_border=true) |
-
----
-
-## Activity
-
-![](https://streak-stats.demolab.com?user=r0st-ma1n&theme=github-dark-blue&hide_border=true)
-
----
-
-> Build useful things. Ship often.
+Interested in software architecture, reliability, and building useful systems.
